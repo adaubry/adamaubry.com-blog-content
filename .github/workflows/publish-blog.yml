@@ -1,0 +1,38 @@
+# Push a .md file in posts/ -> it's created or updated on the adamaubry.com blog.
+# Settings -> Secrets and variables -> Actions:
+#   secret    ODOO_API_KEY   API key of the "Blog Bot" user
+#   variable  ODOO_URL       https://odoo.adamaubry.com
+#   variable  ODOO_DB        your database name (optional when dbfilter pins it)
+#   variable  ODOO_LANG      only if you write posts in French: fr_FR
+name: Publish blog posts to Odoo
+
+on:
+  push:
+    branches: [main]
+    paths: ["posts/**"]
+  workflow_dispatch:
+
+concurrency:
+  group: odoo-blog-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests markdown python-frontmatter
+      # Only fields that changed are written, so syncing the whole folder
+      # on every push is safe and keeps Odoo in step with the repo.
+      - name: Sync posts/ to Odoo
+        env:
+          ODOO_URL: ${{ vars.ODOO_URL }}
+          ODOO_DB: ${{ vars.ODOO_DB }}
+          ODOO_LANG: ${{ vars.ODOO_LANG }}
+          ODOO_API_KEY: ${{ secrets.ODOO_API_KEY }}
+        run: |
+          shopt -s globstar nullglob
+          python scripts/md_to_odoo_blog.py posts/**/*.md
