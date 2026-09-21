@@ -19,5 +19,3 @@ This post was written in Markdown and published by pushing it to a git repositor
 3. The script creates or updates the post in Odoo.
 
 Editing the file and pushing again updates the post — nothing else to do.
-
-V2 test log line
