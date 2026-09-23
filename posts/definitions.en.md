@@ -4,8 +4,8 @@ lang: en
 title: "Some useful definitions"
 subtitle: "Our words directly influence the way we think and view the world."
 date: 2026-09-23
-tags: [Breakdowns]
-slug: useful-definitions
+tags: [Meta]
+slug: definitions
 description: "Our words directly influence the way we think and view the world. Some useful definitions that I will refer to in my future blog posts."
 og_image: /web/image/website/2/social_default_image
 published: true
@@ -26,7 +26,7 @@ This is why I created this blog post: not in an attempt to "record the truth" bu
 
 A dictionary basically is a common index of definitions that people use to refer to a previously agreed upon definition.
 
-***
+---
 
 Below you will find some useful definitions that I will refer to in my future blog posts:
 

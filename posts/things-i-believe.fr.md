@@ -1,12 +1,12 @@
 ---
 key: things-i-believe
 lang: fr
-title: "Quelques choses auxquelles je crois (en cours)"
+title: "Quelques choses auxquelles je crois"
 subtitle: "Le jeu est inventé à 100 %."
 date: 2026-09-23
-tags: []
-slug: choses-auxquelles-je-crois
-description: "Quelques choses auxquelles je crois : le jeu est inventé à 100 %, la douleur est une constante et finie, vos actions sont le résultat final de vos valeurs."
+tags: [Meta]
+slug: mes-mantras
+description: "Quelques mantras auxquels je crois : un travail en cours"
 og_image: /web/image/website/2/social_default_image
 published: true
 ---

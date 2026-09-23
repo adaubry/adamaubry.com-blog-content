@@ -4,8 +4,8 @@ lang: fr
 title: "Quelques définitions utiles"
 subtitle: "Nos mots influencent directement notre façon de penser et de voir le monde."
 date: 2026-09-23
-tags: [Breakdowns]
-slug: definitions-utiles
+tags: [Meta]
+slug: definitions
 description: "Nos mots influencent directement notre façon de penser et de voir le monde. Quelques définitions utiles auxquelles je ferai référence dans mes articles."
 og_image: /web/image/website/2/social_default_image
 published: true
@@ -26,7 +26,7 @@ C'est pour cela que j'ai créé cet article : non pas pour « consigner la vé
 
 Un dictionnaire, c'est au fond un index commun de définitions que les gens utilisent pour se référer à une définition convenue au préalable.
 
-***
+---
 
 Vous trouverez ci-dessous quelques définitions utiles auxquelles je ferai référence dans mes prochains articles :
 
