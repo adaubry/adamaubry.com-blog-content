@@ -1,7 +1,7 @@
 ---
 key: things-i-believe
 lang: fr
-title: "Quelques choses auxquelles je crois"
+title: "Quelques mantras"
 subtitle: "Le jeu est inventé à 100 %."
 date: 2026-09-23
 tags: [Meta]

@@ -26,8 +26,6 @@ This is why I created this blog post: not in an attempt to "record the truth" bu
 
 A dictionary basically is a common index of definitions that people use to refer to a previously agreed upon definition.
 
----
-
 Below you will find some useful definitions that I will refer to in my future blog posts:
 
 ### Common words

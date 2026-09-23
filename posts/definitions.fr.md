@@ -26,8 +26,6 @@ C'est pour cela que j'ai créé cet article : non pas pour « consigner la vé
 
 Un dictionnaire, c'est au fond un index commun de définitions que les gens utilisent pour se référer à une définition convenue au préalable.
 
----
-
 Vous trouverez ci-dessous quelques définitions utiles auxquelles je ferai référence dans mes prochains articles :
 
 ### Mots courants
