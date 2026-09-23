@@ -3,7 +3,7 @@
 #   secret    ODOO_API_KEY   API key of the "Blog Bot" user
 #   variable  ODOO_URL       https://odoo.adamaubry.com
 #   variable  ODOO_DB        your database name (optional when dbfilter pins it)
-#   variable  ODOO_LANG      only if you write posts in French: fr_FR
+#   variable  ODOO_LANG      only for plain <slug>.md files written in French: fr_FR
 name: Publish blog posts to Odoo
 
 on:
@@ -24,7 +24,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests markdown python-frontmatter
+      - run: pip install requests markdown python-frontmatter lxml
       # Only fields that changed are written, so syncing the whole folder
       # on every push is safe and keeps Odoo in step with the repo.
       - name: Sync posts/ to Odoo
