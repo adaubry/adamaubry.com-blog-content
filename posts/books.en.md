@@ -6,6 +6,7 @@ subtitle: "(work in progress)"
 date: 2026-09-23
 tags: [Meta]
 slug: books
+cover: images/books.jpg
 description: "Some books I like: a work in progress."
 og_image: /web/image/website/2/social_default_image
 published: true

@@ -2,10 +2,11 @@
 key: useful-definitions
 lang: en
 title: "Some useful definitions"
-subtitle: "Our words directly influence the way we think and view the world."
+subtitle: "(work in progress)"
 date: 2026-09-23
 tags: [Meta]
 slug: definitions
+cover: images/definitions.jpg
 description: "Our words directly influence the way we think and view the world. Some useful definitions that I will refer to in my future blog posts."
 og_image: /web/image/website/2/social_default_image
 published: true

@@ -2,10 +2,11 @@
 key: useful-definitions
 lang: fr
 title: "Quelques définitions utiles"
-subtitle: "Nos mots influencent directement notre façon de penser et de voir le monde."
+subtitle: "(en cours de création)"
 date: 2026-09-23
 tags: [Meta]
 slug: definitions
+cover: images/definitions.jpg
 description: "Nos mots influencent directement notre façon de penser et de voir le monde. Quelques définitions utiles auxquelles je ferai référence dans mes articles."
 og_image: /web/image/website/2/social_default_image
 published: true

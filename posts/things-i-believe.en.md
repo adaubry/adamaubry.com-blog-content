@@ -2,10 +2,11 @@
 key: things-i-believe
 lang: en
 title: "Some things I believe"
-subtitle: "(en cours)"
+subtitle: "(work in progress)"
 date: 2026-09-23
 tags: [Meta]
 slug: things-i-believe
+cover: images/mantras.jpg
 description: "Some things I believe: a work in progress."
 og_image: /web/image/website/2/social_default_image
 published: true

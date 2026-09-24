@@ -6,6 +6,7 @@ subtitle: "(en cours de création)"
 date: 2026-09-23
 tags: [Meta]
 slug: livres
+cover: images/books.jpg
 description: "Quelques livres que j'apprécie: un travail en cours."
 og_image: /web/image/website/2/social_default_image
 published: true

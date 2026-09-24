@@ -2,10 +2,11 @@
 key: things-i-believe
 lang: fr
 title: "Quelques mantras"
-subtitle: "Le jeu est inventé à 100 %."
+subtitle: "(en cours de création)"
 date: 2026-09-23
 tags: [Meta]
 slug: mes-mantras
+cover: images/mantras.jpg
 description: "Quelques mantras auxquels je crois : un travail en cours"
 og_image: /web/image/website/2/social_default_image
 published: true
