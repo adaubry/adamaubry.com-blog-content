@@ -2,7 +2,7 @@
 key: things-i-believe
 lang: en
 title: "Some things I believe"
-subtitle: "(work in progress)"
+subtitle: "The principles I live and build by, collected as I teach myself entrepreneurship. Short, blunt, and updated when needed."
 date: 2026-09-23
 tags: [Meta]
 slug: things-i-believe

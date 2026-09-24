@@ -2,7 +2,7 @@
 key: books-i-like
 lang: en
 title: "Some books I like"
-subtitle: "(work in progress)"
+subtitle: "Les livres qui ont changé ma vision de la vie, avec en une ligne ce que chacun m'a apporté. Enrichi au fil de mes lectures."
 date: 2026-09-23
 tags: [Meta]
 slug: books

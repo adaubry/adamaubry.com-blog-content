@@ -2,7 +2,7 @@
 key: useful-definitions
 lang: en
 title: "Some useful definitions"
-subtitle: "(work in progress)"
+subtitle: "Words shape how we think. My working definitions of the terms I use across this blog, so we're always talking about the same thing."
 date: 2026-09-23
 tags: [Meta]
 slug: definitions

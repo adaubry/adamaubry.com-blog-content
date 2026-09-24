@@ -2,7 +2,7 @@
 key: useful-definitions
 lang: fr
 title: "Quelques définitions utiles"
-subtitle: "(en cours de création)"
+subtitle: "Les mots façonnent notre pensée. Mes définitions des termes que j'emploie sur ce blog, pour qu'on parle toujours de la même chose."
 date: 2026-09-23
 tags: [Meta]
 slug: definitions

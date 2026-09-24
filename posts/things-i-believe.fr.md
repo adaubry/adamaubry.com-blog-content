@@ -2,7 +2,7 @@
 key: things-i-believe
 lang: fr
 title: "Quelques mantras"
-subtitle: "(en cours de création)"
+subtitle: "Les principes selon lesquels je vis, réunis au fil de mon apprentissage. Courts, directs, et révisés lorsque c'est nécessaire."
 date: 2026-09-23
 tags: [Meta]
 slug: mes-mantras

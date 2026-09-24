@@ -2,7 +2,7 @@
 key: books-i-like
 lang: fr
 title: "Livres que j'apprécie"
-subtitle: "(en cours de création)"
+subtitle: "The books that changed how I think about life, with a line on why each one earned its place. Growing as I read."
 date: 2026-09-23
 tags: [Meta]
 slug: livres
