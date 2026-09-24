@@ -12,6 +12,6 @@ published: true
 ---
 
 - Le jeu est inventé à 100 %.
-- La douleur est une constante (elle ne partira pas) et finie : la « pire douleur de ma vie » quand vous aviez 5 ans ressemblait à la « pire douleur de ma vie » que vous avez vécue en dernier.
-- Vos actions sont le résultat final de vos valeurs.
-- Les histoires que nous nous racontons créent les futurs que nous allons avoir.
+- La douleur est une constante (ne partira pas) finie : la « pire douleur de ma vie » quand vous aviez 5 ans est aussi douloureuse que la dernière « pire douleur de ma vie » que vous avez vécue.
+- Vos actions sont une conséquence de vos valeurs.
+- Les histoires que nous nous contons créent les futurs que nous vivrons.

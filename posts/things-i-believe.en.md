@@ -12,6 +12,6 @@ published: true
 ---
 
 - The game is 100% made up.
-- Pain is a constant (won't go) and finite: the "worst pain in my life" when you were 5yo felt like the "worst pain in my life" you last experienced.
+- Pain is a constant (won't go) and finite: the "worst pain in my life" when you were 5yo felt as painful as the "worst pain in my life" you last experienced.
 - Your actions are the end result of your values.
 - The stories we tell ourselves create the futures we're going to have.
